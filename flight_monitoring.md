@@ -22,29 +22,11 @@
 | 수하물 | 기내 1개 10kg 이하 + 개인 물품 1개 · 무료 위탁수하물 1개, 결제 단계에서 허용 중량 최종 확인 필요 |
 | 예약 | [선택 항공편 상세 열기](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260902/LIS:airport-SEL:city-20260913?adult=1&isDirect=true&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260902ICNLISOZ9807%3AA01%2FB72%3AHK%3AOZ%3A%2C2%3A20260913LISICNOZ9808%3AA01%2FB72%3AHK%3AOZ%3A) |
 
-## 리스본 왕복 경유 조건 충족 항공권 (5개)
+## 리스본 왕복 경유 조건 충족 항공권 (4개)
 
 가격과 환승 조건을 충족하는 경유편을 조건 없는 가격 오름차순으로 기록합니다.
 
-### 1) 현재 최저가 — 9/4(금) ~ 9/16(수), 11박 — 장시간 환승 예외
-
-| 항목 | 내용 |
-|---|---|
-| 여행일 | 9/4(금) ~ 9/16(수), 11박 |
-| 항공사 | KLM · 에어프랑스 |
-| 가는 편 | 22:25 인천 출발, 경유 1회 · KL0856, KL1585 |
-| 가는 편 환승 | 9/5(토) 05:10 암스테르담 도착, 비행 13시간 45분 · 대기 11시간 30분 · 16:40 암스테르담 출발, 비행 3시간 5분 |
-| 리스본 도착 | 9/5(토) 18:45 · 총 28시간 20분 |
-| 오는 편 | 09:50 리스본 출발, 경유 1회 · AF1225, AF0264 |
-| 오는 편 환승 | 9/16(수) 13:20 파리 샤를드골 도착, 비행 2시간 30분 · 대기 1시간 20분 · 14:40 파리 샤를드골 출발, 비행 11시간 55분 |
-| 인천 도착 | 9/17(목) 09:35 · 총 15시간 45분 |
-| 조건 없는 최저가 | **1,131,300원** · 모든 결제수단 동일가 |
-| 일반 현대카드 | 1,131,300원 |
-| 일반결제 | 1,131,300원 |
-| 수하물 | 기내 1개 + 개인 물품 1개, 합산 12kg 이하 · 위탁수하물 불포함 · 23kg 1개 사전 구매 예상 왕복 200,000~280,000원 · 수하물 포함 예상 총액 1,331,300~1,411,300원 |
-| 예약 | [선택 항공편 상세 열기](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNAMSKL0856%2B20260905AMSLISKL1585%3AA01%3AHK%3AKL%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%3AHK%3AKL%3A) |
-
-### 2) 9/4(금) ~ 9/16(수), 11박 — KLM 빠른 연결편
+### 1) 현재 최저가 — 9/4(금) ~ 9/16(수), 11박 — KLM 빠른 연결편
 
 | 항목 | 내용 |
 |---|---|
@@ -62,7 +44,7 @@
 | 수하물 | 기내 1개 + 개인 물품 1개, 합산 12kg 이하 · 위탁수하물 불포함 · 23kg 1개 사전 구매 예상 왕복 200,000~280,000원 · 수하물 포함 예상 총액 1,372,700~1,452,700원 |
 | 예약 | [선택 항공편 상세 열기](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNAMSKL0856%2B20260905AMSLISKL1579%3AA01%3AHK%3AKL%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%3AHK%3AKL%3A) |
 
-### 3) 9/4(금) ~ 9/16(수), 11박 — KLM 오후 연결편
+### 2) 9/4(금) ~ 9/16(수), 11박 — KLM 오후 연결편
 
 | 항목 | 내용 |
 |---|---|
@@ -80,7 +62,7 @@
 | 수하물 | 기내 1개 + 개인 물품 1개, 합산 12kg 이하 · 위탁수하물 불포함 · 23kg 1개 사전 구매 예상 왕복 200,000~280,000원 · 수하물 포함 예상 총액 1,372,700~1,452,700원 |
 | 예약 | [선택 항공편 상세 열기](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNAMSKL0856%2B20260905AMSLISKL1583%3AA01%3AHK%3AKL%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%3AHK%3AKL%3A) |
 
-### 4) 9/3(목) ~ 9/16(수), 12박 — KLM 빠른 연결편
+### 3) 9/3(목) ~ 9/16(수), 12박 — KLM 빠른 연결편
 
 | 항목 | 내용 |
 |---|---|
@@ -98,7 +80,7 @@
 | 수하물 | 기내 1개 + 개인 물품 1개, 합산 12kg 이하 · 위탁수하물 불포함 · 23kg 1개 사전 구매 예상 왕복 200,000~280,000원 · 수하물 포함 예상 총액 1,531,800~1,611,800원 |
 | 예약 | [선택 항공편 상세 열기](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260903/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260903ICNAMSKL0856%2B20260904AMSLISKL1579%3AA01%2FB72%3AHK%3AKL%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%2FB72%3AHK%3AKL%3A) |
 
-### 5) 9/3(목) ~ 9/16(수), 12박 — KLM 오후 연결편
+### 4) 9/3(목) ~ 9/16(수), 12박 — KLM 오후 연결편
 
 | 항목 | 내용 |
 |---|---|
@@ -127,6 +109,7 @@
 
 **경유**
 
+- 2026-08-07 18:17 · 1,131,300원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNAMSKL0856%2B20260905AMSLISKL1585%3AA01%3AHK%3AKL%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%3AHK%3AKL%3A)
 - 2026-08-07 17:46 · 1,097,900원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y)
 - 2026-08-07 14:13 · 1,114,300원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNAMSKL0856%2B20260905AMSLISKL1585%3AA01%2FB72%3AHK%3AKL%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%2FB72%3AHK%3AKL%3A)
 - 이전 기준 참고 · 2026-08-07 11:05 · 1,115,560원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNAMSKL0856%2B20260905AMSLISKL1579%3AA01%3AHK%3AKL%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%3AHK%3AKL%3A)
@@ -138,7 +121,6 @@
 - 리스본 왕복 24개 날짜 조합을 모두 확인하며, 실제 포르투갈 일정 11박 미만은 제외
 - 항공사: 대한항공, 아시아나항공, 에어프랑스, KLM · 가는 편과 오는 편 최초 출발시각 08:00~23:59
 - 각 방향 직항 또는 경유 1회 · 경유 대기 8시간 이하 · 경유는 조건 없는 최저가 1,390,000원 이하
-- 한쪽 대기가 8시간 초과 12시간 이하이면 조건 없는 최저가 1,200,000원 이하일 때만 예외로 기록
 - 이용실적·전월 실적·특정 카드 상품·제휴·로그인·멤버십 조건 가격은 최저가 판정, 가격 상한, 정렬과 이력에서 제외
 - 실적 조건 없는 카드 중 같은 최저가 카드가 여러 개면 최대 3개까지 표시 · 일반결제까지 같은 가격일 때만 `모든 결제수단 동일가`로 표시
 - 페이지에 정상 항공편과 가격이 표시되면 추가 안정화 대기를 하지 않고 후보만 상세 확인하는 빠른 조회 방식을 사용
