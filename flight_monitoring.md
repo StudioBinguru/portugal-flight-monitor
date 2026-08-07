@@ -20,7 +20,7 @@
 | 일반 현대카드 | 1,805,000원 |
 | 일반결제 | 1,824,800원 |
 | 수하물 | 기내 1개 10kg 이하 + 개인 물품 1개 · 위탁 1개 23kg 이하 무료 포함 여부는 결제 단계에서 최종 확인 필요 |
-| 예약 | [네이버 항공권 열기](https://flight.naver.com/flights/international/SEL:city-LIS:airport-20260902/LIS:airport-SEL:city-20260913?adult=1&isDirect=true&fareType=Y) |
+| 예약 | [선택 항공편 상세 열기](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260902/LIS:airport-SEL:city-20260913?adult=1&isDirect=true&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260902ICNLISKE0921%3AA01%2FB05%3AHK%3AKE%3A%2C2%3A20260913LISICNKE0922%3AA01%2FB05%3AHK%3AKE%3A) |
 
 ## 리스본 왕복 경유 조건 충족 항공권 (14개)
 
