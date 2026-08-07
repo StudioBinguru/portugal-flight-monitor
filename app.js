@@ -90,7 +90,7 @@ function latestHistoryPrice(markdown, label) {
   const history = markdown.match(/## 이전 최저가 이력([\s\S]*?)(?=\n## 조회 조건)/)?.[1] || "";
   const escapedLabel = label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   const section = history.match(new RegExp(`\\*\\*${escapedLabel}[^*]*\\*\\*([\\s\\S]*?)(?=\\n\\*\\*|$)`))?.[1] || "";
-  const entries = [...section.matchAll(/(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})\s*·\s*([\d,]+원)/g)]
+  const entries = [...section.matchAll(/^-\s+(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})\s*·\s*([\d,]+원)/gm)]
     .map((match) => ({ trackedAt: match[1], price: numericPrice(match[2]) }))
     .sort((a, b) => b.trackedAt.localeCompare(a.trackedAt));
   return entries[0]?.price ?? null;
@@ -183,7 +183,10 @@ function enhanceFlightCards() {
     const inbound = rowValue(table, "오는 편");
     const lisbonArrival = rowValue(table, "리스본 도착");
     const seoulArrival = rowValue(table, "인천 도착") || rowValue(table, "서울 도착");
-    const price = rowValue(table, "최저 카드가") || "가격 확인 필요";
+    const price =
+      rowValue(table, "조건 없는 최저가") ||
+      rowValue(table, "최저 카드가") ||
+      "가격 확인 필요";
     const priceOnly = price.match(/[\d,]+원/)?.[0] || price;
     const priceCondition = price.replace(priceOnly, "").replace(/^\s*·\s*/, "") || "결제 조건 없음";
     const inboundOrigin = inbound.includes("포르투") ? "OPO" : "LIS";
