@@ -117,25 +117,21 @@ function updateSummary(markdown) {
   const tracked = markdown.match(/마지막 추적:\s*([^\n]+)/)?.[1] || "확인 불가";
   const directSection = markdown.match(/## 리스본 왕복 직항[\s\S]*?(?=\n## )/)?.[0] || "";
   const roundtripSection = markdown.match(/## 리스본 왕복 경유[\s\S]*?(?=\n## )/)?.[0] || "";
-  const openjawSection = markdown.match(/## 포르투갈 오픈조[\s\S]*?(?=\n## )/)?.[0] || "";
   const directPrice = directSection.match(/\*\*([\d,]+원)\*\*/)?.[1] || "결과 없음";
   const roundtripPrice = roundtripSection.match(/\*\*([\d,]+원)\*\*/)?.[1] || "결과 없음";
-  const openjawPrice = openjawSection.match(/\*\*([\d,]+원)\*\*/)?.[1] || "결과 없음";
 
   document.querySelector("#last-tracked").textContent = `마지막 추적 ${tracked}`;
   document.querySelector("#direct-price").textContent = directPrice;
   document.querySelector("#roundtrip-price").textContent = roundtripPrice;
-  document.querySelector("#openjaw-price").textContent = openjawPrice;
   updateTrend("direct-trend", numericPrice(directPrice), latestHistoryPrice(markdown, "직항"));
   updateTrend("roundtrip-trend", numericPrice(roundtripPrice), latestHistoryPrice(markdown, "경유"));
-  updateTrend("openjaw-trend", numericPrice(openjawPrice), latestHistoryPrice(markdown, "오픈조"));
 }
 
 function updateNav(markdown) {
   const navLinks = document.querySelectorAll(".section-nav a");
   const headings = [...markdown.matchAll(/^##\s+(.+)$/gm)].map((match) => match[1]);
   const findHeading = (word) => headings.find((heading) => heading.includes(word));
-  const destinations = [findHeading("직항"), findHeading("리스본 왕복 경유"), findHeading("오픈조"), findHeading("이전 최저가")];
+  const destinations = [findHeading("직항"), findHeading("리스본 왕복 경유"), findHeading("이전 최저가")];
   navLinks.forEach((link, index) => {
     if (destinations[index]) link.href = `#${slugify(destinations[index])}`;
   });
@@ -241,4 +237,7 @@ async function loadMonitoring() {
 }
 
 loadMonitoring();
-setInterval(loadMonitoring, 5 * 60 * 1000);
+setInterval(loadMonitoring, 60 * 1000);
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") loadMonitoring();
+});
