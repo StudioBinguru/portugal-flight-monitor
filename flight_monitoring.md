@@ -1,6 +1,6 @@
 # 포르투갈 항공권 모니터링
 
-마지막 추적: 2026-08-07 09:34
+마지막 추적: 2026-08-07 11:05
 
 ## 리스본 왕복 직항 최저가 항공권
 
@@ -38,10 +38,10 @@
 | 오는 편 | 09:50 리스본 출발, 경유 1회 · AF1225, AF0264 |
 | 오는 편 환승 | 9/16(수) 13:20 파리 샤를드골 도착, 비행 2시간 30분 · 대기 1시간 20분 · 14:40 파리 샤를드골 출발, 비행 11시간 55분 |
 | 인천 도착 | 9/17(목) 09:35 · 총 15시간 45분 |
-| 최저 카드가 | **1,115,560원** · 현대 M2/M3 Edition2 이용실적 충족 |
+| 최저 카드가 | **1,099,750원** · 현대 M2/M3 Edition2 이용실적 충족 |
 | 일반 현대카드 | 1,157,000원 |
 | 일반결제 | 1,157,400원 |
-| 수하물 | 기내 1개 + 개인 물품 1개, 합산 12kg 이하 · 위탁수하물 불포함 · 23kg 1개 사전 구매 예상 편도 100,000~140,000원, 왕복 200,000~280,000원 · 수하물 포함 예상 총액 1,315,560~1,395,560원 |
+| 수하물 | 기내 1개 + 개인 물품 1개, 합산 12kg 이하 · 위탁수하물 불포함 · 23kg 1개 사전 구매 예상 편도 100,000~140,000원, 왕복 200,000~280,000원 · 수하물 포함 예상 총액 1,299,750~1,379,750원 |
 | 예약 | [네이버 항공권 열기](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNAMSKL0856%2B20260905AMSLISKL1579%3AA01%3AHK%3AKL%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%3AHK%3AKL%3A) |
 
 ### 2) 9/4(금) ~ 9/16(수), 11박 — KLM·에어프랑스 오후 연결편
@@ -384,6 +384,7 @@
 
 **경유**
 
+- 2026-08-07 11:05 · 1,115,560원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNAMSKL0856%2B20260905AMSLISKL1579%3AA01%3AHK%3AKL%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%3AHK%3AKL%3A)
 - 2026-08-07 07:04 · 1,142,930원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNAMSKL0856%2B20260905AMSLISKL1579%3AA01%3AHK%3AKL%3A%2C2%3A20260916LISAMSKL1580%2B20260916AMSICNKL0855%3AA01%3AHK%3AKL%3A)
 - 2026-08-06 15:00 · 1,406,800원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNCDGAF5093%2B20260904CDGLISAF1124%3AA01%2FB91%3AHK%3AAF%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%2FB91%3AHK%3AAF%3A)
 - 2026-08-06 19:02 · 1,384,200원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNCDGAF5093%2B20260904CDGLISAF1124%3AA01%2FB91%3AHK%3AAF%3A%2C2%3A20260916LISCDGAF1225%2B20260916CDGICNAF0264%3AA01%2FB91%3AHK%3AAF%3A)
