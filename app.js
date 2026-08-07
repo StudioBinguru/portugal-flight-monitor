@@ -39,6 +39,7 @@ function renderMarkdown(markdown) {
     const line = lines[index].trim();
     if (!line) { index += 1; continue; }
     if (/^마지막 추적:\s*/.test(line)) { index += 1; continue; }
+    if (/^유로 환율:\s*/.test(line)) { index += 1; continue; }
 
     const heading = line.match(/^(#{1,3})\s+(.+)$/);
     if (heading) {
@@ -115,6 +116,7 @@ function updateTrend(elementId, currentPrice, previousPrice) {
 
 function updateSummary(markdown) {
   const tracked = markdown.match(/마지막 추적:\s*([^\n]+)/)?.[1] || "확인 불가";
+  const exchange = markdown.match(/유로 환율:\s*1 EUR = ([\d,.]+) KRW\s*·\s*ECB 기준 ([\d-]+)/);
   const directSection = markdown.match(/## 리스본 왕복 직항[\s\S]*?(?=\n## )/)?.[0] || "";
   const roundtripSection = markdown.match(/## 리스본 왕복 경유[\s\S]*?(?=\n## )/)?.[0] || "";
   const openjawSection = markdown.match(/## 포르투갈 오픈조[\s\S]*?(?=\n## )/)?.[0] || "";
@@ -123,6 +125,12 @@ function updateSummary(markdown) {
   const openjawPrice = openjawSection.match(/\*\*([\d,]+원)\*\*/)?.[1] || "결과 없음";
 
   document.querySelector("#last-tracked").textContent = `마지막 추적 ${tracked}`;
+  if (exchange) {
+    const rate = Number(exchange[1].replace(/,/g, ""));
+    const exchangeElement = document.querySelector("#exchange-rate");
+    exchangeElement.textContent = `€1 ≈ ₩${Math.round(rate).toLocaleString("ko-KR")}`;
+    exchangeElement.title = `유럽중앙은행 기준환율 · ${exchange[2]}`;
+  }
   document.querySelector("#direct-price").textContent = directPrice;
   document.querySelector("#roundtrip-price").textContent = roundtripPrice;
   document.querySelector("#openjaw-price").textContent = openjawPrice;
