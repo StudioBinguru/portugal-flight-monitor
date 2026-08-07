@@ -81,7 +81,7 @@ h1 {
   letter-spacing: -0.06em;
   white-space: nowrap;
 }
-.summary { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 24px; }
+.summary { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-top: 24px; }
 .summary__card {
   padding: 18px 20px;
   border: 1px solid rgba(255, 255, 255, 0.18);
