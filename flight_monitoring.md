@@ -1,26 +1,26 @@
 # 포르투갈 항공권 모니터링
 
-마지막 추적: 2026-08-07 17:46
+마지막 추적: 2026-08-07 18:35
 
 ## 리스본 왕복 직항 최저가 항공권
 
 직항은 조회 조건을 충족하는 항공권 중 실적·로그인 조건 없는 가격이 가장 저렴한 **1개만** 기록합니다.
 
-### 9/2(수) ~ 9/13(일), 11박
+### 9/4(금) ~ 9/16(수), 12박
 
 | 항목 | 내용 |
 |---|---|
-| 여행일 | 9/2(수) ~ 9/13(일), 11박 |
+| 여행일 | 9/4(금) ~ 9/16(수), 12박 |
 | 항공사 | 아시아나항공 · 대한항공 공동운항 |
 | 가는 편 | 12:45 인천 출발, 직항 · OZ9807(대한항공 운항 KE0921) |
-| 리스본 도착 | 9/2(수) 20:15, 비행 15시간 30분 |
-| 오는 편 | 22:30 리스본 출발, 직항 · OZ9808(대한항공 운항 KE0922) |
-| 인천 도착 | 9/14(월) 19:25, 비행 12시간 55분 |
-| 조건 없는 최저가 | **1,850,000원** · NH농협/삼성/롯데카드 |
-| 일반 현대카드 | 1,876,100원 |
-| 일반결제 | 1,954,400원 |
-| 수하물 | 기내 1개 10kg 이하 + 개인 물품 1개 · 무료 위탁수하물 1개, 결제 단계에서 허용 중량 최종 확인 필요 |
-| 예약 | [선택 항공편 상세 열기](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260902/LIS:airport-SEL:city-20260913?adult=1&isDirect=true&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260902ICNLISOZ9807%3AA01%2FB72%3AHK%3AOZ%3A%2C2%3A20260913LISICNOZ9808%3AA01%2FB72%3AHK%3AOZ%3A) |
+| 리스본 도착 | 9/4(금) 20:15, 비행 15시간 30분 |
+| 오는 편 | 22:15 리스본 출발, 직항 · OZ9808(대한항공 운항 KE0922) |
+| 인천 도착 | 9/17(목) 19:15, 비행 13시간 |
+| 조건 없는 최저가 | **1,805,000원** · NH농협/삼성카드 |
+| 일반 현대카드 | 1,828,800원 |
+| 일반결제 | 1,814,532원 |
+| 수하물 | 기내 1개 10kg 이하 + 개인 물품 1개 · 무료 위탁수하물 1개(통상 23kg 이하), 결제 단계에서 최종 확인 필요 |
+| 예약 | [선택 항공편 상세 열기](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=false&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260904ICNLISOZ9807%3AA01%2FB72%3AHK%3AOZ%3A%2C2%3A20260916LISICNOZ9808%3AA01%2FB72%3AHK%3AOZ%3A) |
 
 ## 리스본 왕복 경유 조건 충족 항공권 (4개)
 
@@ -102,6 +102,7 @@
 
 **직항**
 
+- 2026-08-07 18:35 · 1,850,000원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260902/LIS:airport-SEL:city-20260913?adult=1&isDirect=true&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260902ICNLISOZ9807%3AA01%2FB72%3AHK%3AOZ%3A%2C2%3A20260913LISICNOZ9808%3AA01%2FB72%3AHK%3AOZ%3A)
 - 2026-08-07 17:46 · 1,782,100원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/detail/SEL:city-LIS:airport-20260902/LIS:airport-SEL:city-20260913?adult=1&isDirect=true&fareType=Y&selectType=concurrent&selectedFlight=1%3A20260902ICNLISKE0921%3AA01%2FB05%3AHK%3AKE%3A%2C2%3A20260913LISICNKE0922%3AA01%2FB05%3AHK%3AKE%3A)
 - 2026-08-07 14:49 · 1,793,400원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/SEL:city-LIS:airport-20260904/LIS:airport-SEL:city-20260916?adult=1&isDirect=true&fareType=Y)
 - 2026-08-07 14:13 · 1,735,300원 — [당시 네이버 항공권 링크](https://flight.naver.com/flights/international/ICN:airport-LIS:airport-20260902/LIS:airport-ICN:airport-20260913?adult=1&isDirect=true&fareType=Y)
